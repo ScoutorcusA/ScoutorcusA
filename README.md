@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ScoutorcusA
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Powershell
-- 📫 How to reach me -> linkedin
 
 <!---
 ScoutorcusA/ScoutorcusA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
